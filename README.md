@@ -7,6 +7,7 @@ Eu sou a Babi, e sou [![Typing SVG](https://readme-typing-svg.demolab.com?font=F
 - 🌱 Aprendendo Java
 - 🖥️ Amadora em desenvolvimento de jogos
 - 📫 Entre em contato por email
+- 🏫 Ciência da Computação, PUC Minas
 - 🎓 2025
 
 ## Eu uso:<br>
