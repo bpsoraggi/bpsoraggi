@@ -1,4 +1,4 @@
-# Olá 👋
+# Hello 👋
 Hello, my name is Barbara and I'm a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=100&color=FF8A5B&vCenter=true&width=435&height=10&lines=student;developer;tutor)](https://git.io/typing-svg)<br>
 
 <img src="https://i.imgur.com/iaD74Rp.png" width="20" height="20" > Brazilian, Belo Horizonte<br>
@@ -15,8 +15,9 @@ Hello, my name is Barbara and I'm a [![Typing SVG](https://readme-typing-svg.dem
 
 ## Recent Activity:<br>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bpsoraggi&theme=dracula)
 
