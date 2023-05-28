@@ -15,8 +15,9 @@ Hello, my name is Barbara and I'm a [![Typing SVG](https://readme-typing-svg.dem
 
 ## Recent Activity:<br>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bpsoraggi&theme=dracula)
 
