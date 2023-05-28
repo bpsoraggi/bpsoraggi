@@ -2,11 +2,11 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *' # Update every hour
+    - cron: '0 */24 * * *' # Update every day
   workflow_dispatch:
 
 jobs:
-  build:
+  recent-activity:
     runs-on: ubuntu-latest
     name: Update Profile README
 
