@@ -3,7 +3,7 @@ Hello, my name is Barbara and I'm a [![Typing SVG](https://readme-typing-svg.dem
 
 <img src="https://i.imgur.com/iaD74Rp.png" width="20" height="20" > Brazilian, Belo Horizonte<br>
 
-- 💼 Front-End intern
+- 💼 Front-end intern
 - 🌱 Currently learning Python
 - 🖥️ Amateur game developer
 - 📫 Please contact me via email
