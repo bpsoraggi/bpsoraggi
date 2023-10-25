@@ -16,7 +16,7 @@ import Developer from 'bpsoraggi';
 class AboutMe extends Developer {
   name     = 'Barbara';
   major    = 'Computer Science';
-  worksAt  = 'Alfa Engenharia';
+  worksAt  = 'dti Digital';
   location = 'Brazil';
 }
 
